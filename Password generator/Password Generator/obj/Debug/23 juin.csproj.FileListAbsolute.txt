@@ -1,0 +1,22 @@
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\bin\Debug\23 juin.exe.config
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\bin\Debug\23 juin.exe
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\bin\Debug\23 juin.pdb
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\obj\Debug\23 juin.csprojResolveAssemblyReference.cache
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\obj\Debug\_23_juin.Form1.resources
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\obj\Debug\_23_juin.Properties.Resources.resources
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\obj\Debug\_23_juin.randomLettersUserControl.resources
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\obj\Debug\23 juin.csproj.GenerateResource.Cache
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\obj\Debug\23 juin.exe
+c:\users\mhulubas\documents\visual studio 2015\Projects\23 juin\23 juin\obj\Debug\23 juin.pdb
+C:\Users\mhulubas\Documents\Visual Studio 2015\Projects\23 juin\23 juin\obj\Debug\_23_juin.RandomWordsUserControl.resources
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\bin\Debug\23 juin.exe.config
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\bin\Debug\23 juin.exe
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\bin\Debug\23 juin.pdb
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\23 juin.csprojAssemblyReference.cache
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\_23_juin.Form1.resources
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\_23_juin.Properties.Resources.resources
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\_23_juin.randomLettersUserControl.resources
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\_23_juin.RandomWordsUserControl.resources
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\23 juin.csproj.GenerateResource.cache
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\23 juin.exe
+C:\Users\Matei\Desktop\C# projects\Password generator\23 juin\obj\Debug\23 juin.pdb
