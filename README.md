@@ -12,3 +12,6 @@ I also added the ability to store the passwords on a *CSV* file. To store them s
 
 [<img height="300" src="./images/thumbnail.png">](https://youtu.be/qcKe5ifX7Lc)
 
+<sub>
+  (Click on the image to open the youtube video)
+</sub>
